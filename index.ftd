@@ -1,22 +1,21 @@
--- import: <user_name>.github.io/<repo_name>/lib/front
--- import: <user_name>.github.io/<repo_name>/lib/back
+-- import: devag7.github.io/bcard/lib/front
+-- import: devag7.github.io/bcard/lib/back
 
 -- ds.page: Business Card
 
 
--- front.front: John Doe
+-- front.front: Dev Agarwal
 title: Software Developer
-company: John Doe Pvt. Ltd.
-logo: $assets.files.assets.logo.svg
-contact-1: +91 12345 99999
-contact-2: +91 12345 88888
-website-1: john@johndoe.com
-website-2: www.johndoe.com
-location: 123, Block No. A-123, Times Square, Bangalore - 123456
+company: Spotify.Pvt.Ltd 
+logo: $assets.files.assets.logo.png
+;;background: $assets.files.assets.bbc.jpeg
+contact-1: +91 8597589409
+website-2: www.devag.com
+location: 123, Block No. A-123, Times Square, Bangalore - 560077
 
 
--- back.back: John Doe Pvt. Ltd.
-logo: $assets.files.assets.logo.svg
+-- back.back: Spotify.Pvt.Ltd 
+logo: $assets.files.assets.logo.png
 
 
 -- end: ds.page
