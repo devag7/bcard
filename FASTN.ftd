@@ -1,0 +1,17 @@
+-- import: fastn
+
+-- fastn.package: devag7.github.io/bcard
+favicon: -/devag7.github.io/bcard/assets/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: devag7.github.io/bcard/FASTN/ds
+-- fastn.auto-import: devag7.github.io/bcard/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html

@@ -1,0 +1,21 @@
+-- import: devag7.github.io/bcard/lib/front
+-- import: devag7.github.io/bcard/lib/back
+
+-- ds.page: Business Card
+
+
+-- front.front: Dev Agarwal
+title: Software Developer
+company: Spotify.Pvt.Ltd 
+logo: $assets.files.assets.logo.png
+;;background: $assets.files.assets.bbc.jpeg
+contact-1: +91 8597589409
+website-2: www.devag.com
+location: 123, Block No. A-123, Times Square, Bangalore - 560077
+
+
+-- back.back: Spotify.Pvt.Ltd 
+logo: $assets.files.assets.logo.png
+
+
+-- end: ds.page
